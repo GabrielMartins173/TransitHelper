@@ -10,6 +10,11 @@ Credits:
 	Icons:
 		Font Awesome (fontawesome.io)
 
+	Auxiliary Websites:
+		Youtube (https://www.youtube.com/c/RafaelSilvaseuProfessordeTrânsito)
+		Portal do Trânsito (https://www.portaldotransito.com.br)
+		CTB Digital (https://www.ctbdigital.com.br)
+
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
